@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/mirgebayev/Documents/projects/home/mirgebayev/Documents/projects/game-server-websocket/src/test/scala/GameService.scala:1:7: GameService is already defined as class GameService[0m
+[0m[[0m[31merror[0m] [0m[0mclass GameService {[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/mirgebayev/Documents/projects/home/mirgebayev/Documents/projects/game-server-websocket/src/test/scala/Tester.scala:28:7: GameServerTest is already defined as class GameServerTest[0m
+[0m[[0m[31merror[0m] [0m[0mclass GameServerTest extends[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

@@ -1,0 +1,7 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mGameServerTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should test tester *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  1 did not equal 2 (GameServerTest.scala:15)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should create empty GameService[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be able to connect to the GameService websocket[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should respond with correct message[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should register player[0m[0m
